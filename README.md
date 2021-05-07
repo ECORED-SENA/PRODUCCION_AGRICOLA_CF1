@@ -1,8 +1,8 @@
-# **sena-base-2021 v2.3.1**
+# **Buenas Prácticas Agrícolas**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/PRODUCCION_AGRICOLA_CF1/](https://ecored-sena.github.io/PRODUCCION_AGRICOLA_CF1/)
 
 #
 
