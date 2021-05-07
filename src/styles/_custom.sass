@@ -1,0 +1,147 @@
+.banner-principal .tarjeta .align-self-end
+  align-self: center !important
+  
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto
+
+.text-white
+  color: white !important
+
+.card-media
+  position: relative
+  padding: 2rem 2rem 2rem 5rem
+  margin: 1rem 0
+  -webkit-border-radius: 12px
+  -moz-border-radius: 12px
+  border-radius: 12px
+  background-color: #D7E9941E 
+  
+
+  &__body
+    .card__figure
+      margin: 0
+      position: absolute
+      top: 50%
+      left: 0
+      transform: translate(-40%, -50%)
+      max-width: 120px
+
+      img
+        width: 80%
+
+    .card__copy
+      margin: 0
+
+//Tamaño personalizado imagen tarjeta
+.large-imgSize
+  width: 200px !important
+
+@media (max-width: 768px)
+  .card-media
+    position: relative
+    padding: 5rem 2rem 2rem 2rem
+    margin: 3rem 0
+
+    &__body
+      .card__figure
+        margin: 0
+        position: absolute
+        top: 0
+        left: 50%
+        transform: translate(-50%, -50%)
+        max-width: 120px
+
+        img
+          width: 80%
+
+      .card__copy
+        margin: 0
+
+.bg-1
+  background: #BADB4C2A !important
+
+.bg-2 
+  background: #F3F9FF !important
+  border-radius: 10px
+  padding: 2rem
+
+.bg-3 
+  background: #E8F0F8 !important
+
+.bg-4
+  background: #F7A416 !important  
+  color: #12263F !important
+
+.bg-5
+  background: #d8e4f62a !important
+  border-radius: 10px
+  margin-top: 2rem  
+  padding: 2rem    
+
+
+.p
+  margin-top: 3rem
+
+.hr
+  border: 1px solid #AFAFAF !important
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 30px
+      height: 30px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #6393DB
+      span 
+        color: white
+        font-weight: 700
+        font-size: small
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 1rem
+      span 
+        color:orange
+        font-size: 15pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 15px
+      margin-right: 0.65rem
+      img 
+        width: 15px
+        vertical-align: middle
+      
+    
+  
+  &__txt 
+    p:first-child,
+    h3:first-child 
+      margin-top: 0px
+
+.m-top      
+  margin-top: -5px !important  
+
+.bloque-texto-a
+  background-color: lighten($color-secundario,20% ) !important
+  &:before
+    background-color: $color-sistema-d  
+
