@@ -6,7 +6,7 @@
       .titulo-principal__numero
         .h3 2
       .h3 Buenas prácticas agrícolas
-    p Las buenas prácticas agrícolas (BPA) es el nombre que reciben una serie de normas y actividades prácticas aplicadas a la producción de cultivos, que buscan asegurar la calidad del producto entregado al consumidor. Las BPA se encuentran asociadas al desarrollo sostenible, por tal razón, la producción agrícola debe ser amigable con el medio ambiente. Para la implementación de las BPA se debe tener en cuenta los distintos elementos que conforman el sistema productivo, con el fin de alcanzar el objetivo final: garantizar la producción de alimentos y/o materias primas inocuas.
+    p Las buenas prácticas agrícolas (BPA) es el nombre que reciben una serie de normas y actividades prácticas aplicadas a la producción de cultivos, que buscan asegurar la calidad del producto entregado al consumidor. #[b Las BPA se encuentran asociadas al desarrollo sostenible, por tal razón, la producción agrícola debe ser amigable con el medio ambiente.] Para la implementación de las BPA se debe tener en cuenta los distintos elementos que conforman el sistema productivo, con el fin de alcanzar el objetivo final: garantizar la producción de alimentos y/o materias primas inocuas.
     img.img-t.img-a.mt-5(src='@/assets/ilustraciones/img11.png', alt='') 
 
     .titulo-segundo#t_2_1.mt-5
@@ -19,7 +19,7 @@
       .col-12.col-md-5
         img.img-t.img-a(src='@/assets/ilustraciones/img12.svg', alt='')
       .col-12.col-md-7
-        p Las Buenas Prácticas Agrícolas (BPA) se definen de forma general como el conjunto de principios aplicados a todas las actividades realizadas en la producción, procesamiento y transporte dentro de una unidad productiva, con el fin de obtener productos sanos y seguros para el consumidor, garantizando la sostenibilidad social, ambiental y económica. De acuerdo con la Resolución No. 030021 del Instituto Colombiano Agropecuario (ICA) de 2017, las (BPA) son prácticas orientadas a la sostenibilidad ambiental, económica y social para los procesos productivos de la explotación agrícola que garantizan la calidad e inocuidad de los alimentos y de los productos no alimenticios.  
+        p Las Buenas Prácticas Agrícolas (BPA) se definen de forma general como el conjunto de principios aplicados a todas las actividades realizadas en la producción, procesamiento y transporte dentro de una unidad productiva, con el fin de obtener #[b productos sanos y seguros para el consumidor, garantizando la sostenibilidad social, ambiental y económica]. De acuerdo con la Resolución No. 030021 del Instituto Colombiano Agropecuario (ICA) de 2017, las (BPA) son prácticas orientadas a la sostenibilidad ambiental, económica y social para los procesos productivos de la explotación agrícola que garantizan la calidad e inocuidad de los alimentos y de los productos no alimenticios.  
 
     .row.mt-5
       .col-12
@@ -28,9 +28,9 @@
             .col-1  
               img.img-t.img-a(src='@/assets/ilustraciones/img13.svg', alt='')                  
             .col-9      
-              p Las BPA se fundamentan en procedimientos y puntos de control dentro de las diversas etapas necesarias para llevar las frutas y las hortalizas hasta el consumidor, con la meta específica de no contaminarlas. 
+              p Las BPA se fundamentan en procedimientos y puntos de control dentro de las diversas etapas necesarias para llevar las frutas y las hortalizas hasta el consumidor, #[b con la meta específica de no contaminarlas.]
 
-    p.mt-5 <span style="color:#6393DB">¿Qué promueven las BPA principalmente? </span><span style="color:#12263F">revise a continuación las posibilidades.</span>
+    p.mt-5 <span style="color:#6393DB ; font-weight: bold">¿Qué promueven las BPA principalmente? </span><span style="color:#12263F">revise a continuación las posibilidades.</span>
     .row.justify-content-center.align-items-center
       .col-10 
         .row.justify-content-center.mt-5
@@ -39,7 +39,7 @@
                     .card-media__body
                         figure.card__figure
                             img(src='@/assets/ilustraciones/img14.svg', alt='')   
-                        .h4 La higiene y la inocuidad alimentaria
+                        .h6 La higiene y la inocuidad alimentaria
                         p.mt-3 Producción de alimentos sanos y aptos para el consumo, libres de contaminantes (biológicos, físicos y químicos).
 
         .row.justify-content-center.mt-1
@@ -48,7 +48,7 @@
                     .card-media__body
                         figure.card__figure
                             img(src='@/assets/ilustraciones/img15.svg', alt='')   
-                        .h4 La protección del ambiente
+                        .h6 La protección del ambiente
                         p.mt-3 A través del uso y manejo adecuado de productos fitosanitarios y fertilizantes se evita la contaminación del aire, del suelo y el agua. Promueve la protección de la biodiversidad, minimizando el impacto al medio ambiente producido por las labores agrícolas.   
 
         .row.justify-content-center.mt-1
@@ -57,7 +57,7 @@
                     .card-media__body
                         figure.card__figure
                             img(src='@/assets/ilustraciones/img16.svg', alt='')   
-                        .h4 La seguridad de las personas
+                        .h6 La seguridad de las personas
                         p.mt-3 Propende por un lugar y condiciones de trabajo que considere aspectos relacionados con el bienestar, la higiene y la salud de los trabajadores agrícolas.
 
     .titulo-segundo#t_2_2.mt-5
@@ -70,31 +70,31 @@
       .col-5.mt-5
         ol.lista-ol--cuadro.lista-ol--separador
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.ol-bg-1
               span a
             | Baño para trabajadores.
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.ol-bg-2
               span b
             | Comedor para trabajadores.
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.ol-bg-3
               span c
             | Bodega de herramientas.
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.ol-bg-4
               span d
             | Bodega de insumos agrícolas.
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.ol-bg-5
               span e
             | Bodega de almacenamiento temporal.
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.ol-bg-6
               span f
             | Área para dosificación de insumos.
           li 
-            .lista-ol--cuadro__vineta
+            .lista-ol--cuadro__vineta.ol-bg-7
               span g
             | Área para disposición de residuos.                       
 
@@ -118,7 +118,7 @@
         .row.justify-content-end
           .col-12
             .cajon--rojo.p-4
-              p En toda organización el recurso más importante es el talento humano, por esto es importante garantizar las condiciones adecuadas para que el trabajo realizado en finca se haga de manera eficiente y velando por la seguridad e integridad física y mental de los trabajadores.
+              p En toda organización #[b el recurso más importante es el talento humano], por esto es importante garantizar las condiciones adecuadas para que el trabajo realizado en finca se haga de manera eficiente y velando por la seguridad e integridad física y mental de los trabajadores.
     p.my-5 Para garantizar las condiciones laborales adecuadas se recomienda tener en cuenta:
 
     SlyderB(:datos="datosSlyder")
@@ -141,13 +141,13 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-4
-        .h4 El suelo es un sistema dinámico en constante evolución que posee características físicas, químicas y biológicas particulares.
+        .h5 El suelo es un sistema dinámico en constante evolución que posee características físicas, químicas y biológicas particulares.
       .col-8
         p El manejo sostenible del suelo busca mantener y mejorar sus características naturales a través de técnicas que aseguren la conservación de la fertilidad, minimizando la contaminación y evitando la erosión, la compactación y la salinidad. Es por esto que, con base en los resultados de los análisis de suelos y los requerimientos nutricionales del cultivo se debe elaborar un plan de fertilización apoyado por un técnico, en el cual se involucren aspectos como la cantidad de elementos a aplicar, las fuentes o productos a utilizar, los períodos de aplicación, la dosificación y las recomendaciones generales del producto.  
 
     img.img-a.mt-5(src='@/assets/ilustraciones/img26.png', alt='')
 
-    .p Para conocer las características de los suelos se pueden utilizar mapas de suelos, los cuales permiten tener una idea de las características del suelo y las posibilidades de cultivo. Además, entidades nacionales y locales han elaborado estudios particulares para cada zona, por lo que se les debe consultar y conocer si hay programas de conservación de suelos; sin embargo, es importante que en cada predio se determinen las condiciones del suelo y las características particulares que permitan planificar las actividades productivas.
+    .p Para conocer las características de los suelos se pueden utilizar #[b mapas de suelos, los cuales permiten tener una idea de las características del suelo y las posibilidades de cultivo.] Además, entidades nacionales y locales han elaborado estudios particulares para cada zona, por lo que se les debe consultar y conocer si hay programas de conservación de suelos; sin embargo, #[b es importante que en cada predio se determinen las condiciones del suelo y las características particulares que permitan planificar las actividades productivas.]
 
     .p Algunas prácticas que se pueden considerar en el manejo y conservación del suelo son:
 
@@ -186,7 +186,7 @@
 
     .h4.mt-5 2.2.7 Nutrición de plantas
 
-    .p El uso de abonos, fertilizantes y/o enmiendas debe estar basado en información específica del lote y del cultivo. Es necesario realizar análisis del suelo y/o foliares del cultivo para corregir deficiencias y calcular niveles adecuados de nutrientes, asegurando la provisión suficiente en el tiempo con el objeto de maximizar la producción, sin degradar el suelo y evitar posibles contaminaciones.    
+    .p El uso de abonos, fertilizantes y/o enmiendas debe estar basado en información específica del lote y del cultivo. #[b Es necesario realizar análisis del suelo y/o foliares del cultivo para corregir deficiencias y calcular niveles adecuados de nutrientes], asegurando la provisión suficiente en el tiempo con el objeto de maximizar la producción, sin degradar el suelo y evitar posibles contaminaciones.    
 
     .bloque-texto-a.p-4.p-md-5.mt-5
       .row.m-0.align-items-center.justify-content-between
@@ -202,7 +202,7 @@
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
-    .p En cuanto al manejo fitosanitario del cultivo se propone realizar un plan de manejo, enmarcado en los principios del Manejo Integrado de Plagas (MIP). El MIP se basa en métodos preventivos, de observación, intervención y control, que requiere de recursos básicos, los cuales forman una pirámide de control, en la que se comienza por el monitoreo de los cultivos, la determinación de los métodos de control a utilizar (manejo del cultivo, clima, suelo, normas legales, relaciones interespecíficas y umbrales de daño), y su uso efectivo.        
+    .p En cuanto al manejo fitosanitario del cultivo se propone realizar un plan de manejo, enmarcado en los principios del #[b Manejo Integrado de Plagas (MIP). El MIP se basa en métodos preventivos, de observación, intervención y control], que requiere de recursos básicos, los cuales forman una pirámide de control, en la que se comienza por el monitoreo de los cultivos, la determinación de los métodos de control a utilizar (manejo del cultivo, clima, suelo, normas legales, relaciones interespecíficas y umbrales de daño), y su uso efectivo.        
 
     img.img-a.mt-5(src='@/assets/ilustraciones/img31.png', alt='')
 
@@ -222,21 +222,21 @@
                 .card-media__body
                     figure.card__figure
                         img(src='@/assets/ilustraciones/img33.svg', alt='')   
-                    .h4 Prevención
+                    .h6 Prevención
                     p.mt-3 Realizar una revisión completa de las plagas que contemple su nombre común y científico, ciclo biológico y la evaluación de la magnitud del daño, con el fin hacer un uso racional de los productos químicos. 
         .col-10
             .card-media
                 .card-media__body
                     figure.card__figure
                         img(src='@/assets/ilustraciones/img34.svg', alt='')   
-                    .h4 Monitoreo y evaluación
+                    .h6 Monitoreo y evaluación
                     p.mt-3 Definir el/los métodos de muestreo de las plagas por plantas, por surcos, por metro lineal, etc., dependiendo del tipo de cultivo. Con la evaluación se establece el comportamiento de las poblaciones y los niveles de infestación, incidencia y severidad.
         .col-10
             .card-media
                 .card-media__body
                     figure.card__figure
                         img(src='@/assets/ilustraciones/img35.svg', alt='')   
-                    .h4 Intervención
+                    .h6 Intervención
                     p.mt-3 Son todas aquellas prácticas dirigidas a disminuir la población de las plagas a niveles aceptables que no afecten la producción del cultivo.
 
     .p Dentro del programa MIP el productor debe demostrar que realiza actividades de prevención y seguimiento de las plagas antes de implementar un procedimiento de intervención con productos fitosanitarios. Estas actividades de prevención y seguimiento deben realizarse durante las actividades previas al cultivo, durante su desarrollo y posterior a la cosecha y postcosecha del producto.    
@@ -249,7 +249,7 @@
         .row.mt-5
           .col-12
             .bloque-texto-b.p-4
-              .bloque-texto-b__texto.h2.mb-0 La capacidad para reunir el tejido histórico, la utilización o localización de un artículo o de una actividad por medio de una identificación registrada. 
+              .bloque-texto-b__texto.h4.mb-0 La capacidad para reunir el tejido histórico, la utilización o localización de un artículo o de una actividad por medio de una identificación registrada. 
         .p Esto se refiere a dos aspectos principales, por un lado, a #[b la identificación del producto mediante un proceso de marcación y por el otro, al registro de los datos relacionados con ese producto a lo largo de las cadenas de producción, transformación y distribución]. Esto se refiere a dos aspectos principales, por un lado, a la identificación del producto mediante un proceso de marcación y por el otro, al registro de los datos relacionados con ese producto a lo largo de las cadenas de producción, transformación y distribución.
       .col-6   
         img.img-a.img-t(src='@/assets/ilustraciones/img36.svg', alt='')
@@ -278,21 +278,21 @@
     .p Son la conversión de los requisitos fundamentales, mayores y menores en puntos de control verificables. Estos puntos de control se evalúan durante el proceso de certificación para determinar el cumplimiento de los criterios junto con los requisitos de certificación. Los criterios son acordes a los requisitos mínimos y al porcentaje que debe lograr, por lo que cada criterio está vinculado a un valor específico que se totaliza en el número de criterios mínimos a cumplir.   
 
     .row.mt-5
-      .col-md-6.col-lg.mb-5
+      .col-md-6.col-lg.mb-5.d-flex
         .tarjeta-Avatar
           img(src='@/assets/ilustraciones/img38.svg' alt='AvatarTop')
           .tarjeta.tarjeta--amarilla.p-4.bg-1
             .h4.text-center 2.3.1 Requisitos fundamentales
             p Los requisitos fundamentales corresponden a aquellos cuyo incumplimiento genera un #[b peligro inminente en la inocuidad del producto a comercializar.]
 
-      .col-md-6.col-lg.mb-5
+      .col-md-6.col-lg.mb-5.d-flex
         .tarjeta-Avatar
           img(src='@/assets/ilustraciones/img39.svg' alt='AvatarTop')
           .tarjeta.tarjeta--amarilla.p-4.bg-1
             .h4.text-center 2.3.2 Requisitos mayores
             p Los requisitos mayores son aquellos cuyo incumplimiento genera un #[b peligro potencial que puede afectar la inocuidad.]
 
-      .col-md-6.col-lg.mb-5
+      .col-md-6.col-lg.mb-5.d-flex
         .tarjeta-Avatar
           img(src='@/assets/ilustraciones/img40.svg' alt='AvatarTop')
           .tarjeta.tarjeta--amarilla.p-4.bg-1

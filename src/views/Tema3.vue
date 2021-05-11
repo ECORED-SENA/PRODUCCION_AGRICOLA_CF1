@@ -6,7 +6,7 @@
       .titulo-principal__numero
         .h3 3
       .h3 Economía solidaria
-    p La economía solidaria busca contribuir al fortalecimiento de las relaciones del sector agropecuario y de las organizaciones desde la producción, distribución, consumo y financiación, basándose en la cooperación, la ayuda mutua, el trabajo en equipo, la democracia y la autogestión. Así como también genera las condiciones necesarias que permiten dinamizar los diferentes procesos para la construcción de tejido social, la inclusión social, la generación de confianza, la equidad de género, el trabajo en equipo y el desarrollo territorial. 
+    p La economía solidaria busca contribuir al fortalecimiento de las relaciones del sector agropecuario y de las organizaciones desde la producción, distribución, consumo y financiación, basándose en #[b la cooperación, la ayuda mutua, el trabajo en equipo, la democracia y la autogestión]. Así como también genera las condiciones necesarias que permiten dinamizar los diferentes procesos para la construcción de tejido social, la inclusión social, la generación de confianza, la equidad de género, el trabajo en equipo y el desarrollo territorial. 
     img.img-a.mt-5(src='@/assets/ilustraciones/img41.png', alt='')
 
     .titulo-segundo#t_3_1.mt-5
@@ -14,7 +14,7 @@
     .bloque-texto-a.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          .h2.mb-0 A continuación, encuentra algunas definiciones que es importante que reconozca en referencia a la economía solidaria.
+          .h4.mb-0 A continuación, encuentra algunas definiciones que es importante que reconozca en referencia a la economía solidaria.
         .col-lg-7
           .bloque-texto-a__texto.p-4
             p #[b Economía solidaria]: sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía (Artículo 2, Ley 454 de 1998). 
@@ -83,7 +83,7 @@
     .titulo-segundo#t_3_3.mt-5
       .h4 3.3 Comercialización agrícola
 
-    .p La comercialización es el conjunto de funciones que se desarrollan desde que el producto sale del establecimiento de un productor hasta que llega al consumidor, a través de un mercado determinado. Es un mecanismo de coordinación para las transferencias e intercambios que realizan los diferentes agentes que participan en una cadena productiva.
+    .p La comercialización es el conjunto de funciones que se desarrollan #[b desde que el producto sale del establecimiento de un productor hasta que llega al consumidor, a través de un mercado determinado]. Es un mecanismo de coordinación para las transferencias e intercambios que realizan los diferentes agentes que participan en una cadena productiva.
 
     .p Para llevar a cabo una comercialización óptima del producto, la organización debe: 
 
@@ -91,20 +91,20 @@
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
           img(src='@/assets/ilustraciones/img42.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--amarilla.p-4.bg-1
-            .h4.text-center Establecer un plan o una estrategia de gestión de la comercialización. 
+          .tarjeta.tarjeta--amarilla.p-4.bg-2
+            .h6.text-center Establecer un plan o una estrategia de gestión de la comercialización. 
 
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
           img(src='@/assets/ilustraciones/img43.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--amarilla.p-4.bg-1
-            .h4.text-center Implementar este plan.
+          .tarjeta.tarjeta--amarilla.p-4.bg-2
+            .h6.text-center Implementar este plan.
 
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar
           img(src='@/assets/ilustraciones/img44.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--amarilla.p-4.bg-1
-            .h4.text-center Monitorear, analizar y controlar el plan en su funcionamiento real.
+          .tarjeta.tarjeta--amarilla.p-4.bg-2
+            .h6.text-center Monitorear, analizar y controlar el plan en su funcionamiento real.
   
     .row.mt-5
       .col-12
