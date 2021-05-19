@@ -11,7 +11,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LpUKMOgkEFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 El propósito de este componente es facilitar #[b la comprensión de los diferentes aspectos que involucran la implementación de Buenas Prácticas Agrícolas (BPA) en la producción agrícola]. Junto con los protocolos de BPA existentes y la legislación nacional vigente se presentan los saberes conceptuales para aclarar y facilitar la tarea del implementador. 
 
