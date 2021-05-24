@@ -161,48 +161,37 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: 'Astrid Lili Puerta',
-        cargo: 'Experta temática',
-        centro: 'Centro Agropecuario de Buga',
-        regional: 'Regional valle',
+        nombre: 'Tania Yaneth Ramírez Benítez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro Industrial Del Diseño Y La Manufactura',
+        regional: 'Regional Santander',
       },
       {
-        nombre: 'Javier Enrique Santana',
-        cargo: 'Experto temático',
+        nombre: 'Claudia Patricia Sánchez Peñaranda',
+        cargo: 'Instructora',
+        centro: 'Agrosena',
+        regional: 'CAB',
+      },
+      {
+        nombre: 'Fredy Orlando Ibáñez Morales ',
+        cargo: 'Instructor',
+        centro: 'Agroambiental',
+        regional: 'CAB',
+      },
+      {
+        nombre: 'Yanet Bolaños Botina',
+        cargo: 'Instructora',
+        centro: 'Agroambiental',
+        regional: 'CAB',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial',
-        regional: 'Regional Distrito Capital',
       },
       {
-        nombre: 'Michael Andrés Cortés Caro',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Mauricio Jiménez Fajardo',
-        cargo: 'Experto temático',
-        centro: 'Ministerio de Ambiente y Desarrollo Sostenible',
-      },
-      {
-        nombre: 'Manuel Alejandro Garzón Cárdenas',
-        cargo: 'Experto temático',
-        centro: 'Deutsche Gesellschaft für',
-        regional: 'Internationale Zusammenarbeit (GIZ)',
-      },
-      {
-        nombre: 'Liliana Victoria Morales Gualdrón',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Carlos Andrés Rodríguez',
-        cargo: 'Evaluador instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo',
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
         regional: 'Regional Distrito Capital',
       },
@@ -217,12 +206,26 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+        nombre: [
+          'María Natalia Maldonado Delgado',
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Arenales',
+          'Junior Rodriguez',
+          'John Archiniegas',
+          'Daniela Muñoz Bedoya',
+          'Oscar Javier Latorres',
+          'Ludwyng Corzo Garcia',
+          'Carolina Tamayo',
+        ],
         cargo: 'Diseño web y Producción Audiovisual',
       },
       {
         nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -231,9 +234,9 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Validación y vinculación en plataforma LMS'],
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],
@@ -247,7 +250,7 @@ export default {
     },
     {
       referencia:
-        'Instituto Interamericano de Cooperación para la Agricultura -IICA-. (2018). Manual 8: bases de la organización asociativa. Programa de Fortalecimiento de Capacidades Agroempresariales y Asociativas, No. 8. San José, Costa ',
+        'Instituto Interamericano de Cooperación para la Agricultura -IICA-. (2018). Manual 8: bases de la organización asociativa. Programa de Fortalecimiento de Capacidades Agroempresariales y Asociativas, No. 8. San José, Costa Rica ',
       link:
         'http://repositorio.iica.int/bitstream/handle/11324/7127/BVE18040228e.pdf;jsessionid=44104C332E8919CEFF87F18A0E1ACF08?sequence=1',
     },
@@ -311,7 +314,7 @@ export default {
     {
       termino: 'Normativo',
       significado:
-        'Conjunto de normas aplicables a una determinada materia o actividad (RAE). ',
+        'Conjunto de normas aplicables a una determinada materia o actividad. (RAE) ',
     },
     {
       termino: 'Peligro',
@@ -321,7 +324,7 @@ export default {
     {
       termino: 'Producción agrícola',
       significado:
-        'Es el resultado de la práctica de la agricultura. La producción agrícola es aquella que consiste en generar vegetales para el consumo humano. https://www.ecured.cu/Producci%C3%B3n_agr%C3%ADcola',
+        'Es el resultado de la práctica de la agricultura. La producción agrícola es aquella que consiste en generar vegetales para el consumo humano.',
     },
     {
       termino: 'Registro documental',

@@ -32,7 +32,7 @@
 
     .titulo-segundo#t_1_2.mt-5
       .h4 1.2 Características y funciones de la empresa agrícola
-    p.mt-5 Las principales características de la empresa agrícola se fundamentan en el carácter especial de este sector, ya que #[b en la mayoría de los Estados de economía de mercado existen políticas especialmente diseñadas para la agricultura.] 
+    p.mt-5 Las principales características de la empresa agrícola se fundamentan en el carácter especial de este sector, ya que #[b en la mayoría de los estados de economía de mercado existen políticas especialmente diseñadas para la agricultura.] 
 
     p.mt-5 Siendo así que sus principales características son:       
 
@@ -62,13 +62,11 @@
           .col-md-6.mb-4.mb-md-0
             .h4 Estructura del recurso
             p La estructura de recursos de la empresa genera al menos cuatro efectos que la distinguen de la empresa industrial. En primer lugar, #[b la agricultura se caracteriza por tener una mayor proporción de inversión en insumos fijos tales como tierra, construcciones]; en segundo lugar y estrechamente relacionado con lo anterior, la empresa agrícola tiene una mayor proporción de costos fijos en su estructura de costos que la empresa industrial, lo que le resta flexibilidad para adaptarse a condiciones cambiantes y la hace más vulnerable a las evoluciones adversas del mercado. 
+            p.mt-3 En tercer lugar, #[b la agricultura está más obligada que otras actividades económicas al resguardo del medio ambiente]. Finalmente, la importancia de la tierra en la producción y su relativa fijeza en la estructura de recursos hace que la empresa agrícola tenga más dificultades que la empresa industrial en aumentar su escala de producción. Ello quiere decir que la empresa agrícola tiene relativamente más dificultades que la empresa industrial en reducir sus costos unitarios mediante economías de escala.              
         
           .col-md-4
             figure
               img(src='@/assets/ilustraciones/img4_4.svg', alt='')
-        .row.justify-content-center.align-items-center
-          .col-md-10.mb-4.mb-md-0              
-            p.mt-5 En tercer lugar, #[b la agricultura está más obligada que otras actividades económicas al resguardo del medio ambiente]. Finalmente, la importancia de la tierra en la producción y su relativa fijeza en la estructura de recursos hace que la empresa agrícola tenga más dificultades que la empresa industrial en aumentar su escala de producción. Ello quiere decir que la empresa agrícola tiene relativamente más dificultades que la empresa industrial en reducir sus costos unitarios mediante economías de escala.  
 
     .titulo-segundo#t_1_3.mt-5
       .h4 1.3 Tipos de empresa agrícola

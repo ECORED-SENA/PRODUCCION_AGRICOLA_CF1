@@ -122,7 +122,7 @@
                   span 1
           .list__txt
               .h6 Compradores    
-              p Personas o empresas que están dispuestas a pagar un valor en pesos u otra moneda por los productos adquiridos, que previamente pudo ser concertado o que en el momento de la venta se concrete.
+              p Personas o empresas que están dispuestas a pagar un valor en pesos u otra moneda por los productos adquiridos, que previamente pudo ser concertado o que en el momento de la venta se concerte.
 
         .hr.my-4
         .list
@@ -207,7 +207,7 @@
 
           tr
             td Mercados desregulados
-            td El Estado no ejerce controles y, por lo tanto, es el mercado quien fija los precios a partir de la oferta y la demnda.
+            td El Estado no ejerce controles y, por lo tanto, es el mercado quien fija los precios a partir de la oferta y la demanda.
 
         tbody
           tr
@@ -223,13 +223,13 @@
           tr
             <td rowspan="2">Características de los compradores</td>
             td Mercados de consumo
-            td Se realizan transacciones de bienes y servicios que son adquiridos por los consumidores finales, distinguiéndose principalmente: mercados de productos de consumo duradero, y mercados de servicios (contrataciones).
+            td Se realizan transacciones de bienes y servicios que son adquiridos por los consumidores finales, distinguiéndose principalmente: mercados de productos de consumo inmediato, mercados de productos de consumo duradero, y mercados de servicios (contrataciones).
 
           tr
             td Mercados industriales
-            td Se realizan transacciones de bienes y servicios empleados en la obtención de diferentes productos que son objeto de transacción posterior o que se adquieren para obtener un beneficio mediante su posterior reventa:<br><br> <b> Compradores industriales</b> adquieren bienes y servicios como insumos para la elaboración de productos procesados/transformados, que son objeto de comercialización posterior;<br><br> <b> Compradores intermediarios industriales</b> adquieren bienes y servicios para revenderlos o para facilitar la venta de otros productos.                     
+            td Se realizan transacciones de bienes y servicios empleados en la obtención de diferentes productos que son objeto de transacción posterior, o que se adquieren para obtener un beneficio mediante su posterior reventa:<br><br> <b> Compradores industriales</b> adquieren bienes y servicios como insumos para la elaboración de productos procesados/transformados, que son objeto de comercialización posterior;<br><br> <b> Compradores intermediarios industriales</b> adquieren bienes y servicios para revenderlos o para facilitar la venta de otros productos.                     
 
-    .titulo-segundo#t_3_5.mt-5
+    .titulo-segundo#t_3_6.mt-5
       .h4 3.6 Tipos de empresa de economía solidaria 
 
     .p Las organizaciones de economía solidaria se destacan porque sus resultados económicos están enfocados en que se destinen al beneficio social, al crecimiento de sus reservas y fondos, así se retribuye a los asociados parte de esos excedentes, en proporción al uso de los servicios o a la participación en el trabajo de la organización. En ellas se privilegian los objetivos y las expectativas económicas y sociales de los asociados, y actúan como factores determinantes de la comunidad y el trabajo. 
