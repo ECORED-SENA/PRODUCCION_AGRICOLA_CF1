@@ -209,11 +209,11 @@ export default {
         nombre: [
           'Daniela Muñoz Bedoya',
           'Gilberto Junior Rodríguez Rodríguez',
-          'John Jairo Archiniegas González',
+          'John Jairo Arciniegas González',
           'Ludwyng Corzo Garcia',
           'María Carolina Tamayo López',
           'María Natalia Maldonado Delgado',
-          'Oscar Javier Latorres',
+          'Oscar Javier Latorre Burbano',
           'Wilson Andrés Arenales Cáceres',
           'Zuleidy Maria Ruiz Torres',
         ],
