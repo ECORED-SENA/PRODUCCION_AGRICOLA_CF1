@@ -64,7 +64,7 @@
       .h4 2.2 Manual de BPA
     p El Manual de Buenas Prácticas Agrícolas corresponde al #[b Anexo 1 de la Resolución 030021 de 2017], en el cual se definen y caracterizan cada uno de los componentes que se deben cumplir si se quiere obtener la certificación en BPA expedida por el ICA. Lo invito a revisarlo en detalle.
 
-    .h5.mt-5 2.2.1. Áreas e instalaciones
+    .h5.mt-5 Áreas e instalaciones
     p.mt-5 Al hablar de la producción de alimentos producidos con BPA, un elemento fundamental a fin de evitar la contaminación del producto son las instalaciones físicas, las cuales deben mantenerse en condiciones adecuadas de limpieza. De acuerdo con la resolución vigente para las BPA, las áreas mínimas requeridas para la producción de alimentos con calidad e inocuidad son:
     .row.justify-content-center.align-items-center
       .col-5.mt-5
@@ -103,13 +103,13 @@
         .cajon--azul.p-4.bg-1   
           p Estas áreas deben estar debidamente identificadas, ubicadas y construidas de la manera adecuada de acuerdo con la normatividad vigente del ICA. Se deben mantener en óptimas condiciones de higiene para evitar accidentes, intoxicaciones y contaminación, y garantizar la inocuidad de lo producido. Se precisa también el registro de todas las labores de mantenimiento y limpieza de las instalaciones, conforme a los protocolos y procedimientos establecidos para ello. 
 
-    .h5.mt-5 2.2.2 Equipos, utensilios y herramientas
+    .h5.mt-5 Equipos, utensilios y herramientas
     .row.mt-5
       .col-12    
         img(src='@/assets/ilustraciones/img17.png', alt='') 
     p.mt-5 Para garantizar que los alimentos producidos cumplen con los requisitos de calidad exigidos por el consumidor se debe evaluar y evidenciar que todos los equipos, utensilios y herramientas que se utilizan en las labores de campo, cosecha y postcosecha se encuentran ubicados en un espacio exclusivo para tal fin y, que además presentan buenas condiciones y permanecen limpios y organizados. Es fundamental contar con un programa de mantenimiento preventivo y calibración para cada uno de estos elementos.
 
-    .h5.mt-5 2.2.3 Personal    
+    .h5.mt-5 Personal    
 
     .row.justify-content-center.align-items-center.mt-5
       .col-5
@@ -123,7 +123,7 @@
 
     SlyderB(:datos="datosSlyder")
 
-    .h5.mt-5 2.2.4 Componente ambiental
+    .h5.mt-5 Componente ambiental
     .p El componente ambiental es transversal a todos los procesos que se realizan en la unidad productiva. Por tal motivo, es indispensable elaborar un croquis o plano del predio en el cual se identifiquen las características y recursos de la zona aledaña, de los riesgos asociados al suelo y a las fuentes de agua que puedan afectar la calidad e inocuidad del producto.     
 
     .row.justify-content-center.align-items-center.mt-5.bg-2 
@@ -137,13 +137,11 @@
     img.img-t.img-a.mt-5(src='@/assets/ilustraciones/img25.svg', alt='')
 
 
-    .h5.mt-5 2.2.5 Manejo de suelos
+    .h5.mt-5 Manejo de suelos
 
     .row.justify-content-center.align-items-center.mt-5
-      .col-4
-        .h5 El suelo es un sistema dinámico en constante evolución que posee características físicas, químicas y biológicas particulares.
-      .col-8
-        p El manejo sostenible del suelo busca mantener y mejorar sus características naturales a través de técnicas que aseguren la conservación de la fertilidad, minimizando la contaminación y evitando la erosión, la compactación y la salinidad. Es por esto que, con base en los resultados de los análisis de suelos y los requerimientos nutricionales del cultivo se debe elaborar un plan de fertilización apoyado por un técnico, en el cual se involucren aspectos como #[b la cantidad de elementos a aplicar, las fuentes o productos a utilizar, los períodos de aplicación, la dosificación y las recomendaciones generales del producto.]  
+      .col-12
+        p El suelo es un sistema dinámico en constante evolución que posee características físicas, químicas y biológicas particulares. El manejo sostenible del suelo busca mantener y mejorar sus características naturales a través de técnicas que aseguren la conservación de la fertilidad, minimizando la contaminación y evitando la erosión, la compactación y la salinidad. Es por esto que, con base en los resultados de los análisis de suelos y los requerimientos nutricionales del cultivo se debe elaborar un plan de fertilización apoyado por un técnico, en el cual se involucren aspectos como #[b la cantidad de elementos a aplicar, las fuentes o productos a utilizar, los períodos de aplicación, la dosificación y las recomendaciones generales del producto.]  
 
     img.img-a.mt-5(src='@/assets/ilustraciones/img26.png', alt='')
 
@@ -162,11 +160,11 @@
               .h5.mb-0.text-white Infografía - Manejo de suelos
               p.text-white Manejo y conservación del suelo
             .col-sm-auto
-              a.boton.boton--b.bg-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.boton--b.bg-4(:href="obtenerLink('/downloads/INFOGRAFIA_MANEJO_DE_SUELOS.pdf')" target="_blank")
                 span.bg-4 Descargar
                 i.bg-4.fas.fa-file-download
 
-    .h5.mt-5 2.2.6 Selección del material de propagación
+    .h5.mt-5 Selección del material de propagación
 
     .row.justify-content-center.align-items-center.mt-5
       .col-4
@@ -183,7 +181,7 @@
 
     .p Para la producción del material vegetal en finca se debe generar un sistema de control de calidad de la producción, garantizando la trazabilidad desde el momento de la elección de la planta madre hasta la obtención de la plántula, registrando todas las actividades realizadas.
 
-    .h5.mt-5 2.2.7 Nutrición de plantas
+    .h5.mt-5 Nutrición de plantas
 
     .p El uso de abonos, fertilizantes y/o enmiendas debe estar basado en información específica del lote y del cultivo. #[b Es necesario realizar análisis del suelo y/o foliares del cultivo para corregir deficiencias y calcular niveles adecuados de nutrientes], asegurando la provisión suficiente en el tiempo con el objeto de maximizar la producción, sin degradar el suelo y evitar posibles contaminaciones.    
 
@@ -197,7 +195,7 @@
 
     .p Si se aplican fertilizantes de síntesis química se debe recordar que los excesos en las aplicaciones generan contaminación del suelo y del agua y, las aplicaciones deficientes afectan su fertilidad. #[b Todas las fertilizaciones deben estar registradas y en dicho registro se debe especificar de manera detallada la mayor cantidad de datos referentes a la producción], con el objetivo de recopilar la mayor cantidad de información para decisiones futuras y tener una adecuada trazabilidad de la producción. Es importante disponer de un inventario de fertilizantes actualizado según el uso, que indique el contenido actual y el movimiento del inventario (tipo y cantidad). Los fertilizantes inorgánicos deben estar almacenados en una zona protegida de la lluvia y presentar el menor riesgo posible de contaminación de las fuentes de agua, separados de otros insumos y del producto cosechado.        
 
-    .h5.mt-5 2.2.8 Protección de cultivos
+    .h5.mt-5 Protección de cultivos
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/HJDTE4ZLMlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
@@ -240,11 +238,11 @@
 
     .p Dentro del programa MIP el productor debe demostrar que realiza actividades de prevención y seguimiento de las plagas antes de implementar un procedimiento de intervención con productos fitosanitarios. Estas actividades de prevención y seguimiento deben realizarse durante las actividades previas al cultivo, durante su desarrollo y posterior a la cosecha y postcosecha del producto.    
 
-    .h5.mt-5 2.2.9 Trazabilidad
+    .h5.mt-5 Trazabilidad
 
     .row.justify-content-center.align-items-center
       .col-6 
-        P Según la Organización para la Alimentación y la Agricultura (FAO) la trazabilidad se define como: "La capacidad para reunir el tejido histórico, la utilización o localización de un artículo o de una actividad por medio de una identificación registrada." Esto se refiere a dos aspectos principales, por un lado, #[b a la identificación del producto mediante un proceso de marcación y por el otro, al registro de los datos relacionados con ese producto a lo largo de las cadenas de producción, transformación y distribución]. 
+        P Según la Organización para la Alimentación y la Agricultura (FAO) la trazabilidad se define como: "La capacidad para reunir el tejido histórico, la utilización o localización de un artículo o de una actividad por medio de una identificación registrada". Esto se refiere a dos aspectos principales, por un lado, #[b a la identificación del producto mediante un proceso de marcación y por el otro, al registro de los datos relacionados con ese producto a lo largo de las cadenas de producción, transformación y distribución]. 
       .col-6   
         img.img-a.img-t(src='@/assets/ilustraciones/img36.svg', alt='')
 
@@ -254,7 +252,7 @@
           p Al interior de la unidad productiva se debe contar con #[b un plan de trazabilidad del proceso de producción que permita establecer la identidad del producto desde el campo hasta la salida del predio]. Dentro del procedimiento es preciso que para la finca se asigne un código alfanumérico, es decir, compuesto por letras y números, posteriormente se debe asignar un código a cada lote y al día de cosecha del producto, con el propósito de controlar la trazabilidad interna del proceso en el cultivo.
     .p Una vez cosechado el producto se debe identificar, dependiendo del número de lote de donde proviene. La identificación de cada empaque (canastilla, caja, bulto) con el respectivo código de trazabilidad, que debe estar expuesto en un lugar visible donde no se pierda, ni deteriore.
 
-    .h5.mt-5 2.2.10 Soporte documental
+    .h5.mt-5 Soporte documental
     .p Es importante mantener los registros solicitados y mencionados en los numerales anteriores. Su objetivo es disponer de información que permita identificar fallas y oportunidades de mejora e implementar acciones de ser necesarias. Se recomienda guardarlos como mínimo dos años después de que la empresa haya obtenido su certificado, para poder actuar ante cualquier reclamo.
     .row.justify-content-center.align-items-center.mt-5
       .col-10
@@ -310,7 +308,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Afiliar a los trabajadores de tiempo completo a una Entidad Prestadora de Salud (EPS) y a un Aseguradora de Riesgos Laborales (ARL). En el caso de los trabajadores ocasionales, ellos deben estar cubiertos por estos servicios, como hecho previo al momento de su contratación.',
+          'Afiliar a los trabajadores de tiempo completo a una Entidad Prestadora de Salud (EPS) y a una Aseguradora de Riesgos Laborales (ARL). En el caso de los trabajadores ocasionales, ellos deben estar cubiertos por estos servicios, como hecho previo al momento de su contratación.',
         imagen: require('@/assets/ilustraciones/img21.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

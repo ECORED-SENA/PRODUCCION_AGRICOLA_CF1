@@ -113,7 +113,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.6',
-            titulo: 'Tipos de empresas de economía solidaria',
+            titulo: 'Tipos de empresa de economía solidaria',
             hash: 't_3_6',
           },
         ],
@@ -163,7 +163,7 @@ export default {
       {
         nombre: 'Tania Yaneth Ramírez Benítez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro Industrial Del Diseño Y La Manufactura',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
@@ -207,21 +207,21 @@ export default {
       },
       {
         nombre: [
-          'María Natalia Maldonado Delgado',
-          'Zuleidy Maria Ruiz Torres',
-          'Wilson Arenales',
-          'Junior Rodriguez',
-          'John Archiniegas',
           'Daniela Muñoz Bedoya',
-          'Oscar Javier Latorres',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'John Jairo Archiniegas González',
           'Ludwyng Corzo Garcia',
-          'Carolina Tamayo',
+          'María Carolina Tamayo López',
+          'María Natalia Maldonado Delgado',
+          'Oscar Javier Latorres',
+          'Wilson Andrés Arenales Cáceres',
+          'Zuleidy Maria Ruiz Torres',
         ],
-        cargo: 'Diseño web y Producción Audiovisual',
+        cargo: 'Diseño web y Producción audiovisual',
       },
       {
         nombre: 'Edward Leonardo Pico Cabra',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
       },
       {
         nombre: 'Jenny Paola Montillo Gélvez',
@@ -314,7 +314,7 @@ export default {
     {
       termino: 'Normativo',
       significado:
-        'Conjunto de normas aplicables a una determinada materia o actividad. (RAE) ',
+        'Conjunto de normas aplicables a una determinada materia o actividad (RAE). ',
     },
     {
       termino: 'Peligro',
@@ -324,7 +324,7 @@ export default {
     {
       termino: 'Producción agrícola',
       significado:
-        'Es el resultado de la práctica de la agricultura. La producción agrícola es aquella que consiste en generar vegetales para el consumo humano.',
+        'Es el resultado de la práctica de la agricultura. La producción agrícola es aquella que consiste en generar vegetales para el consumo humano. <a style="color: #2196F3;" href="https://www.ecured.cu/Producci%C3%B3n_agr%C3%ADcola" target="_blank">https://www.ecured.cu/Producci%C3%B3n_agr%C3%ADcola</a> ',
     },
     {
       termino: 'Registro documental',
@@ -339,7 +339,7 @@ export default {
     {
       termino: 'Sostenible',
       significado:
-        'Especialmente en ecología y economía, que se puede mantener durante largo tiempo sin agotar los recursos o causar grave daño al medio ambiente. (RAE) ',
+        'Especialmente en ecología y economía, que se puede mantener durante largo tiempo sin agotar los recursos o causar grave daño al medio ambiente (RAE). ',
     },
     {
       termino: 'Trazabilidad',
