@@ -227,7 +227,53 @@
 
           tr
             td Mercados industriales
-            td Se realizan transacciones de bienes y servicios empleados en la obtención de diferentes productos que son objeto de transacción posterior, o que se adquieren para obtener un beneficio mediante su posterior reventa:<br><br> <b> Compradores industriales</b> adquieren bienes y servicios como insumos para la elaboración de productos procesados/transformados, que son objeto de comercialización posterior;<br><br> <b> Compradores intermediarios industriales</b> adquieren bienes y servicios para revenderlos o para facilitar la venta de otros productos.                     
+            td Se realizan transacciones de bienes y servicios empleados en la obtención de diferentes productos que son objeto de transacción posterior, o que se adquieren para obtener un beneficio mediante su posterior reventa:<br><br> <b> Compradores industriales</b> adquieren bienes y servicios como insumos para la elaboración de productos procesados/transformados, que son objeto de comercialización posterior;<br><br> <b> Compradores intermediarios industriales</b> adquieren bienes y servicios para revenderlos o para facilitar la venta de otros productos.     
+
+        tbody
+          tr
+            td Características de los compradores
+            td Mercados institucionales 
+            td Se adquieren bienes y servicios para su uso en instituciones (públicas, en general), la mayoría de los cuales son objeto de comercialización posterior. Algunos ejemplos son las compras públicas para programas de alimentación escolar, abastecimiento de hospitales, ejercito, etc.                        
+
+        tbody
+          tr
+            td Naturaleza de los productos
+            td Mercados de...
+            td ...productos agropecuarios, de pesca y acuicultura. <br>...materias primas.<br>...productos técnicos o industriales.<br>...productos manufacturados.<br>...servicios.
+
+        tbody
+          tr
+            <td rowspan="4">Ámbito o ubicación geográfica</td>
+            td Mercados en origen o mercado local/municipal
+            td Transiciones que se realizan en lugares próximos a los centros de producción agrarios, ganaderos y pesqueros, en los que se efectúa la primera venta de estos productos. 
+          tr
+            td Mercado interior o nacional
+            td Transacciones que las empresas realizan dentro del país en el que están situadas. Desde el punto de vista del vendedor, es la venta de sis productos a nivel nacional, más allá del mercado local.
+          tr
+            td Mercados de tránsito
+            td Mercados situados en los puertos y pasos de frontera, en los que se realizan transiciones de diversos productos con destinos muy variados.
+          tr
+            td Mercado exterior/internacional 
+            td Transacciones que las empresas realizan fuera de su propio país. Desde el punto de vista del vendedor, es la exploración de sus productos.                     
+
+        tbody
+          tr
+            <td rowspan="3">Financieros</td>
+            td Mercados de capitales
+            td Refiere a las diferentes operaciones financieras que se efectúan a mediano y largo plazo y el conjunto de instituciones que facilitan la realización de estas operaciones. Comprende dos tipos principales: el <b>mercado de crédito</b> (operaciones financieras que se realizan a través de préstamos de los bancos y de las instituciones de inversión) y el <b>mercado de valores</b> (operaciones de financiación efectuadas mediante las transacciones de títulos de valores en la Bolsa de Comercio).
+          tr
+            td Mercado de cambios
+            td Denominación utilizada para designar las compras y ventas de divisas (moneda extranjera).
+          tr
+            td mercado de divisas
+            td El conjunto de transacciones que se realizan con monedas extranjeras entre los diferentes bancos, para atender las peticiones de sus clientes.
+
+        tbody
+          tr
+            td Otros tipos de mercados
+            td Mercados de futuros
+            td Mercados en los que se realiza la contratación de productos para la entrega futura, a un precio determinado y acomodado previamente entre el comprador y el vendedor.
+    p.mt-2.text-center Nota: elaboración con base en economía.ws (s.f.) y González (2002)                     
 
     .titulo-segundo#t_3_6.mt-5
       .h4 3.6 Tipos de empresa de economía solidaria 
