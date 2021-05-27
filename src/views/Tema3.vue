@@ -233,7 +233,7 @@
           tr
             td Características de los compradores
             td Mercados institucionales 
-            td Se adquieren bienes y servicios para su uso en instituciones (públicas, en general), la mayoría de los cuales son objeto de comercialización posterior. Algunos ejemplos son las compras públicas para programas de alimentación escolar, abastecimiento de hospitales, ejercito, etc.                        
+            td Se adquieren bienes y servicios para su uso en instituciones (públicas, en general), la mayoría de los cuales no son objeto de comercialización posterior. Algunos ejemplos son las compras públicas para programas de alimentación escolar, abastecimiento de hospitales, ejercito, etc.                        
 
         tbody
           tr
@@ -248,13 +248,13 @@
             td Transiciones que se realizan en lugares próximos a los centros de producción agrarios, ganaderos y pesqueros, en los que se efectúa la primera venta de estos productos. 
           tr
             td Mercado interior o nacional
-            td Transacciones que las empresas realizan dentro del país en el que están situadas. Desde el punto de vista del vendedor, es la venta de sis productos a nivel nacional, más allá del mercado local.
+            td Transacciones que las empresas realizan dentro del país en el que están situadas. Desde el punto de vista del vendedor, es la venta de sus productos a nivel nacional, más allá del mercado local.
           tr
             td Mercados de tránsito
-            td Mercados situados en los puertos y pasos de frontera, en los que se realizan transiciones de diversos productos con destinos muy variados.
+            td Mercados situados en los puertos y pasos de frontera, en los que se realizan transacciones de diversos productos con destinos muy variados.
           tr
             td Mercado exterior/internacional 
-            td Transacciones que las empresas realizan fuera de su propio país. Desde el punto de vista del vendedor, es la exploración de sus productos.                     
+            td Transacciones que las empresas realizan fuera de su propio país. Desde el punto de vista del vendedor, es la exportación de sus productos.                     
 
         tbody
           tr
@@ -265,14 +265,14 @@
             td Mercado de cambios
             td Denominación utilizada para designar las compras y ventas de divisas (moneda extranjera).
           tr
-            td mercado de divisas
+            td Mercado de divisas
             td El conjunto de transacciones que se realizan con monedas extranjeras entre los diferentes bancos, para atender las peticiones de sus clientes.
 
         tbody
           tr
             td Otros tipos de mercados
             td Mercados de futuros
-            td Mercados en los que se realiza la contratación de productos para la entrega futura, a un precio determinado y acomodado previamente entre el comprador y el vendedor.
+            td Mercados en los que se realiza la contratación de productos para la entrega futura, a un precio determinado y acordado previamente entre el comprador y el vendedor.
     p.mt-2.text-center Nota: elaboración con base en economía.ws (s.f.) y González (2002)                     
 
     .titulo-segundo#t_3_6.mt-5
