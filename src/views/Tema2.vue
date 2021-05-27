@@ -13,7 +13,7 @@
       .h4 2.1 Concepto y reseña histórica
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/stf3X6YnB_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/D0kv_uZmVtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-md-5
@@ -198,7 +198,7 @@
     .h5.mt-5 Protección de cultivos
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/HJDTE4ZLMlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/cMNwWYR7FNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
     .p En cuanto al manejo fitosanitario del cultivo se propone realizar un plan de manejo, enmarcado en los principios del #[b Manejo Integrado de Plagas (MIP). El MIP se basa en métodos preventivos, de observación, intervención y control], que requiere de recursos básicos, los cuales forman una pirámide de control, en la que se comienza por el monitoreo de los cultivos, la determinación de los métodos de control a utilizar (manejo del cultivo, clima, suelo, normas legales, relaciones interespecíficas y umbrales de daño), y su uso efectivo.        
 
     img.img-a.mt-5(src='@/assets/ilustraciones/img31.png', alt='')
